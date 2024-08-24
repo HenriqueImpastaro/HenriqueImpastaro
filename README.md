@@ -5,8 +5,8 @@
 After some years exploring the realms of mechanics and materials engineering, I'm now diving into the world of **Computer Science**. My journey is fueled by an insatiable curiosity and a deep desire for knowledge. 
 
 ### 🎯 Guiding Principles
-- **To Learn**: Learning is not just a goal; it’s my life's objective. Every day is an opportunity to expand my understanding of the world.
 - **To Question**: I’m a natural-born skeptic — I acknowledge my need for tangible proof, so I challenge every answer I receive, questioning until I find clarity and an acceptable truth.
+- **To Learn**: Learning is not just a goal; it’s my life's objective. Every day is an opportunity to expand my understanding of the world.
 
 ### 🌱 Growing Every Day
 - **Learning**: Algorithms, data structures, and web development.
