@@ -10,7 +10,6 @@ After some years exploring the realms of mechanics and materials engineering, I'
 
 ### 🌱 Growing Every Day
 - **Learning**: Algorithms, data structures, and web development.
-- **Creating**: Applying my knowledge to build innovative solutions.
 - **Evolving**: Continuously adapting and seeking new challenges.
 
 ### 🛠️ Tools & Skills
